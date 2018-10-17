@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(library)
+add_library(mylib STATIC mylib.cpp)
+install(TARGETS mylib DESTINATION lib)
+install(FILES mylib.h DESTINATION include)

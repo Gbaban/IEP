@@ -1,0 +1,3 @@
+/home/bill/IEP/Main/install/bin/main
+/home/bill/IEP/Main/install/lib/libmylib.a
+/home/bill/IEP/Main/install/include/mylib.h
